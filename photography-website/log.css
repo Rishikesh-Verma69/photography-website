@@ -1,0 +1,16 @@
+.nav_body{
+    text-align: center;
+}
+.nav_in{
+    text-align: center;
+}
+.nav_in ul{
+    overflow: auto;
+    text-align: center;
+}
+.navbar li {
+    float: left;
+    list-style: none;
+    padding: 15px;
+    text-decoration: none;
+}
